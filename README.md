@@ -25,18 +25,7 @@ However, there _are_ some rules I have to get across.
   Another exception is that if the game is not on for sale anymore on Steam (for example, _Grand Theft Auto: San Andreas_, or _FUSER_.)
 - *Use the labels when making a report.*
 
-  It's true that if you report the game, I *could* just set the label myself. But that would require a _lot_ of work if a lot of people are going to submit reports, so please please *please* add in the appropriate label yourself when      possible.
-- *Only report games that are worth reporting/Don't report a game that's emulated (see exception below).*
-
-  That one sounds weird, but let me explain.
-  
-  What I mean by that is that don't report games that don't really bring much to the table in terms of "Oh, that's an interesting game that could run on the Deck. I'm not sure if it _can_ though..."
-  
-  For example, I really don't want people flooding the page with SNES game reports; because I'd imagine that if you *want* to play Super Mario World on your Steam Deck, you're not going to need a compatibilty list like this to see if 
-  it works or not.
-
-  In general, I really don't want people flooding the game with _emulated_ games, however there *are* some exceptions (like for example using RPCS3 to report a game; the Deck doesn't meet the requirements of the emulator, 
-  yet there are still some top-notch games that run at full-speed on there; for example, _Scott Pilgrim vs. The World: The Game_.)
+  It's true that if you report the game, I *could* just set the label myself. But that would require a _lot_ of work if a lot of people are going to submit reports, so please please *please* add in the appropriate label yourself when possible.
 
 That's all I could come up with in terms of the guidelines. 
 
